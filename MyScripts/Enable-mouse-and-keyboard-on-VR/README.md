@@ -6,7 +6,7 @@
  * Import it in VaM to the scene and press `L` to toggle enable the script
 
 ## Uninstall
- * Is just a imported script to scene so.
+ * Is just a imported script to scene tho.
  
 ## Feature 
  * Allow the use of mouse and keyboard with VR headset but whitout any VR Controllers 
